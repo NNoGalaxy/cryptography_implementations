@@ -12,6 +12,6 @@ RSA is essentially a cryptographic system used to securely transfer data. It use
 
 # Notes : 
 Some links that helped me : 
-https://ctf101.org/cryptography/what-is-rsa/
-https://en.wikipedia.org/wiki/RSA_(cryptosystem)
-https://gist.github.com/djego/97db0d1bc3d16a9dcb9bab0930d277ff
+**1** - https://ctf101.org/cryptography/what-is-rsa/
+**2** - https://en.wikipedia.org/wiki/RSA_(cryptosystem)
+**3** - https://gist.github.com/djego/97db0d1bc3d16a9dcb9bab0930d277ff
