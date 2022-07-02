@@ -7,11 +7,11 @@ RSA is essentially a cryptographic system used to securely transfer data. It use
 # Bugs & Issue 
 **1** - Random generation of P & Q ✔\
 **2** - Fix D being returned as None ✔\
-**2** - Fix script freezing after setting max_prime to 100,00\0
+**2** - Fix script freezing after setting max_prime to 100,000
 
 
 # Notes : 
 Some links that helped me : 
-**1** - https://ctf101.org/cryptography/what-is-rsa/\
-**2** - https://en.wikipedia.org/wiki/RSA_(cryptosystem)\
+**1** - https://ctf101.org/cryptography/what-is-rsa/ \
+**2** - https://en.wikipedia.org/wiki/RSA_(cryptosystem) \
 **3** - https://gist.github.com/djego/97db0d1bc3d16a9dcb9bab0930d277ff
